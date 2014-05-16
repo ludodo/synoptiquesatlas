@@ -1,0 +1,25 @@
+# This file contains metadata for your plugin. Beginning
+# with version 1.8 this is the preferred way to supply information about a
+# plugin. The current method of embedding metadata in __init__.py will
+# be supported until version 2.0
+
+# This file should be included when you package your plugin.
+
+[general]
+name=AtlasGrid
+qgisMinimumVersion=2.0
+description=Create grids for atlas
+version=version 0.3.0
+author=Bertrand Chaussat (Biotope)
+email=dev-qgis@biotope.fr
+
+tags=atlas, grille
+homepage=http://hub.qgis.org/projects/synoptiquesatlas/
+tracker=http://hub.qgis.org/projects/synoptiquesatlas/
+repository=http://hub.qgis.org/projects/synoptiquesatlas/
+icon=
+experimental=True
+
+# deprecated flag (applies to the whole plugin, not just a single version
+deprecated=False
+
